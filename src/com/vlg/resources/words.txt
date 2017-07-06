@@ -1,490 +1,490 @@
-black - කළුපාට
-blue - නිල්පාට
-brown - දුඹුරුපාට
-green - කොළපාට
-orange - තැඹිලිපාට
-pink - රෝස
-red - රතුපාට
-white - සුදු
-yellow - කහපාට
-eight - අට
-first - එක්වැනි
-five - පහ
-million - දශ-ලක්ෂය
-nine - නවය
-nothing - ශූන්‍යය
-one - එක
-six - හය
-third - තුන්වැනි
-thousand - දහස
-three - තුන
-two - දෙක
-arm - බාහුව
-back - පිටුපස
-beak - හොට
-blood - ලේ
-body - ඇඟ
-bone - ඇටකටු
-brain - මොළය
-breath - ආශ්වාස-ප්‍රශ්වාසය
-cell - සෛලය
-chest - ළැම
-chin - නිකට
-ear - කන
-eye - ඇස
-face - මුහුණ
-finger - ඇඟිල්ල
-foot - පය
-forehead - නළල
-gene - ජානය
-hair - කොණ්ඩය
-hair - කෙස්
-hand - අත
-head - ඔළුව
-heart - හදවත
-knee - දණහිස
-leg - කකුල
-lip - තොල
-mouth - මුඛය
-muscle - මස්පිඩුව
-nail - නියපොත්ත
-neck - ගෙල
-nerve - නහරය
-nose - නාසය
-skin - සම
-stomach - ආමාශය
-throat - උගුර
-thumb - මහපටැඟිල්ල
-toe - පයේ
-tongue - දිව
-tooth - දත
-wing - පක්ෂීන්ගේ
-bear - වලහා
-bird - කුරුල්ලා
-cat - පූසා
-cow - එළදෙන
-dog - බල්ලා
-elephant - අලියා
-fish - මාළුවා
-fly - ඉගිලෙනවා
-goat - එළුවා
-horse - අශ්වයා
-insect - කෘමියා
-lion - සිංහයා
-monkey - වඳුරා
-pig - ඌරා
-sheep - බැටළුවා
-snake - නාගයා
-afternoon - අපරභාගය
-autumn - ශරත්-ඍතුව
-beginning - ආරම්භය
-century - ශතවර්ෂය
-date - දිනය
-December - දෙසැම්බර්-මාසය
-end - අවසානය
-evening - සන්ධ්‍යාව
-February - පෙබරවාරි-මාසය
-July - ජූලි-මාසය
-June - ජූනි-මාසය
-midnight - මධ්‍යම-රාත්‍රිය
-minute - මිනිත්තුව
-moment - මොහොත
-Monday - සඳුදා
-month - මාසය
-morning - උදෑසන
-night - රාත්‍රිය
-November - නොවැම්බර්-මාසය
-period - කාල-පරිච්ඡේදය
-present - වර්තමාන-කාලය
-summer - ගිම්හානය
-Sunday - ඉරිදා
-today - අද
-tomorrow - භෙට
-Tuesday - අඟහරුවාදා
-week - සතිය
-weekend - සති-අන්තය
-while - මොහොත
-year - වර්ෂය
-bread - පාන්
-breakfast - උදේක-ෑම
-butter - බටර්
-cake - කේක්
-cheese - කේජු
-chocolate - චොකලට්
-egg - බිත්තරය
-food - ආහාර
-fruit - පලතුරු
-lunch - දවල්-කෑම
-meal - කෑම-වේල
-meat - මස්
-oil - තෙල්
-rice - බත්
-salad - සලාදය
-salt - ලුණු
-sandwich - සැන්ඩ්විච්
-sauce - සෝස්
-soup - සූපය
-sugar - සීනි
-sweet - පැණිරස
-beer - බීර
-coffee - කෝපි
-drink - බීම
-milk - කිරි
-tea - තේ
-water - ජලය
-wine - වයින්
-apple - ඇපල්
-lemon - දෙහි
-orange - දොඩම්
-bean - බෝංචි
-onion - ලූනු
-potato - අර්තාපල්
-tomato - තක්කාලි
-baby - බිලිඳා
-birth - උපත
-birthday - උපන්දිනය
-boy - පිරිමි-ලමයා
-brother - සහෝදරයා
-child - දරුවා
-daughter - දුව
-death - මරණය
-family - පවුල
-father - පියා
-friend - මිතුරා
-girl - ගෑනු | ළමයා
-grandfather - සීයා
-human - මනුෂ්‍ය
-husband - සැමියා
-life - ජීවය
-man - මිනිසා
-marriage - විවාහය
-mother - මව
-parent - පියා-හෝ-මව
-person - පුද්ගලයා
-relationship - සම්බන්ධතාව
-sister - සහෝදරිය
-son - පුතා
-wedding - විවාහ-මංගල්‍යය
-wife - බිරිඳ
-woman - ගැහැනිය
-address - ලිපිනය
-bathroom - නාන-කාමරය
-bedroom - නිදන-කාමරය
-brick - ගඩොල
-door - දොර
-floor - බිම
-garage - ගරාජය
-garden - උද්‍යානය
-gate - දොරටුව
-hall - සාලය
-home - ගෙදර
-house - ගෙදර
-kitchen - කුස්සිය
-roof - වහළ
-room - කාමරය
-step - තරප්පු-පඩිය
-toilet - වැසිකිළිය
-wall - බිත්තිය
-well - ළිඳ
-window - කවුළුව
-bed - ඇඳ
-carpet - කලාලය
-chair - පුටුව
-cupboard - බිත්ති-රාක්කය
-curtain - තිරය
-desk - ලියන-මේසය
-furniture - ගෘහභාණ්ඩ
-seat - ආසනය
-shelf - රාක්කය
-table - මේසය
-bag - බෑගය
-boot - සපත්තුව
-cloth - වස්ත්‍රය
-clothing - ඇඳුම්
-coat - කබාය
-collar - කරපටිය
-hat - හිස්වැස්ම
-jacket - පිටවැස්ම
-jewel - ආභරණය
-ring - මුදුව
-shirt - කමිසය
-shoe - සපත්තුව
-skirt - සාය
-sock - මේස්
-suitcase - සූට්කේසය
-tie - කරපටිය
-airport - ගුවන්තොටුපළ
-bank - බැංකුව
-bridge - පාලම
-building - ගොඩනැගිල්ල
-capital - අගනුවර
-castle - මාළිගාව
-church - දේවස්ථානය
-cinema - සිනිමා-ශාලාව
-city - නගරය
-flat - මහල්-නිවාසය
-hospital - රෝහල
-hotel - හෝටලය
-library - පුස්තකාලය
-park - උද්‍යානය
-prison - බන්ධනාගාරය
-restaurant - ආපන-ශාලාව
-road - පාර
-school - පාසැල
-street - වීදිය
-structure - ආකෘතිය
-supermarket - සුපිරි-වෙළඳසැල
-town - නුවර | නගරය
-university - විශ්වවිද්‍යාලය
-village - ගම
-accident - හදිසි-අනතුර
-boat - බෝට්ටුව
-bus - බසය
-car - මොටෝරථය
-curve - වක්‍රය
-express - සීඝ‍්‍රගාමී
-flight - පියසැරිය
-journey - ගමන
-passenger - මඟියා
-ship - නැව
-track - පීලිපාර
-transport - ප්‍රවාහණය
-actor - නළුවා
-actress - නිළිය
-businessman - ව්‍යාපාරිකයා
-expert - ඉතදක්ෂයා
-general - සේනාධිපතියා
-journalist - පත්‍රවේදියා
-judge - නඩුකාරයා
-leader - නායකයා
-minister - ඇමතිවරයා
-musician - සංගීතඥයා
-photographer - ඡායාරූප ශිල්පියා
-pilot - ගුවන් නියමුවා
-politician - දේශපාලනඥයා
-president - ජනාධිපති
-professional - වෘත්තීයවේදී
-representative - නියෝජීතයා
-sailor - නාවිකයා
-scientist - විද්‍යාඥයා
-secretary - ලේකම්
-servant - මෙභෙකරුවා
-soldier - සොල්දාදුවා
-writer - ලේඛකයා
-bank - කණ්ඩිය
-beach - වෙරළ
-east - නැගෙනහිර
-hill - කන්ද
-island - දූපත
-lake - වැව | විල
-land - පොළොව
-map - සිතියම
-north - උතුර
-plain - පතන
-region - ප්‍රාන්තය
-river - ගඟ
-sea - මුහුද
-south - දකුණ
-space - ආකාශය
-star - තරුව
-sun - ඉර
-west - බස්නාහිර
-cloud - වලාකුළ
-rain - වැස්ස
-snow - හිම
-storm - කුණාටුව
-wind - සුළඟ
-acid - අම්ලය
-chemical - රසායනික ද්‍රව්‍ය
-coal - ගල් අඟුරු
-cotton - කපු
-dust - දූවිලි
-earth - පස්
-fat - තරබාරු
-glass - කැඩපත
-glue - මැලියම්
-grain - කණිකාව
-ice - අයිස්
-iron - යකඩ
-leather - හම්
-liquid - ද්‍රව
-matter - පදාර්ථය
-oil - තෙල්
-poison - විෂ
-powder - කුඩු
-sand - වැලි
-silk - සේද
-soap - සබන්
-steel - වානේ
-wood - ලී
-wool - ලොම්
-bag - බෑගය
-basket - කූඩය
-bottle - බෝතලය
-box - පෙට්ටිය
-cup - කෝප්පය
-drawer - ලාච්චුව
-envelope - ලියුම්කවරය
-glass - වීදුරු
-plate - පිඟාන
-bell - සීනුව
-button - බොත්තම
-gun - තුවක්කුව
-hammer - මිටිය
-hook - කොක්ක
-key - යතුර
-lock - අගුළ
-match - ගිනිකූර
-nail - ඇණය
-needle - ඉදිකටුව
-pump - පොම්පය
-rope - කඹය
-scissors - කතුර
-stamp - මුද්‍රාව
-whip - කසය
-addition - එකතුකිරීම
-angle - කෝණය
-area - ක්ෂේත්‍රඑලය
-circle - වෘත්තය
-curve - වක්‍රය
-degree - අංශකය
-difference - වෙනස්කම
-distance - පරතරය
-division - බෙදීම
-edge - දාරය
-half - භාගය
-limit - සීමාව
-line - රේඛාව
-net - දැල
-order - විනය
-outside - පිටපැත්ත
-point - ලක්ෂ්‍යය
-purpose - අරමුණ
-result - ප්‍රතිඑලය
-root - මූලය
-rule - නීතිය
-set - කාණ්ඩය
-side - පැත්ත
-square - සමචතුරස‍්‍රය
-square - වර්ගඑලය
-surface - පෘෂ්ඨය
-total - එකතුව
-begin - ආරම්භ
-break - කඩනවා
-buy - මිලටගන්නවා
-close - වසනවා
-come - එනවා
-cut - කපනවා
-dance - නටනවා
-do - කරනවා
-drink - පානය-කරනවා
-eat - කනවා
-fall - වැටෙනවා
-feel - දැනෙනවා
-find - ලබා-ගන්නවා
-fire - වෙඩි-තබනවා
-fly - පියාඹනවා
-follow - අනුගමනය-කරනවා
-forget - අමතක-කරනවා
-get - ලබාගන්නවා
-give - දෙනවා
-hear - ඇසෙනවා
-help - සහාය-වෙනවා
-hope - බලාපොරොත්තු-වෙනවා
-jump - පනිනවා
-kiss - සිප-ගන්නවා
-know - දැන-සිටිනවා
-laugh - ශබ්ද-නගා-සිනාසෙනවා
-learn - ඉගෙනගන්නවා
-lie - බොරුව
-lie - මුසාව
-listen - ඇහුම්කන්-දෙනවා
-look - බලනවා
-lose - නැතිවෙනවා
-love - ආදරය
-make - කරනවා
-meet - හමුව
-move - ගෙන-යනවා
-need - අවශ්‍යතාව
-open - විවෘත-කරනවා
-pay - ගෙවනවා
-play - සෙල්ලම්-කරනවා
-pull - ඇදගෙන-යනවා
-push - තල්ලු-කරනවා
-put - දමනවා
-read - කියවනවා
-remember - මතක-තබාගන්නවා
-run - දුවනවා
-say - කියනවා
-sell - විකුණනවා
-sing - ගී-ගයනවා
-sit - වාඩිවෙනවා
-smile - සිනහව
-swim - පිහිනනවා
-take - අරගන්නවා
-understand - තේරුම්-ගන්නවා
-use - පාවිච්චි-කරනවා
-wait - නැවතී-සිටිනවා
-write - ලියනවා
-and - සහ
-because - නිසා
-for - සඳහා
-if - හොත්
-or - එක්කෝ
-than - වඩා
-until - තුරු
-whenever - ඕනෑවිටක
-against - විරුද්ධව
-among - අතර
-at - කෙරෙහි
-beside - සමීපයෙහි
-during - අතරතුර
-for - සඳහා
-from - සිට
-from - සිට
-into - තුළට
-of - ගේ
-on - උඩ
-since - එවක්-පටන්
-to - දෙසට
-with - සමඟ
-with - සමඟ
-without - තොර
-anyone - කිසිවෙක්
-anything - කිසිවක්
-everything - සියල්ල
-he - ඔහු
-her - ඇගේ
-him - ඔහුට
-himself - ඔහුම
-his - ඔහුගේ
-mine - මගේ
-it - එය | ඌ
-itself - එයම
-me - මා
-my - මගේ
-our - අපේ
-she - ඈ
-that - අර
-their - ඔවුන්ගේ
-them - ඔවුන්ට
-these - මේවා
-they - ඔවුහු
-this - මෙය
-those - ඒවා
-me - මම
-us - අපට
-we - අපි
-what - මොනවාද
-when - කවදා
-which - මොන
-which - මොන
-who - කවුද
-whom - කාටද
-whose - කාගේද
-I - මම
-you - නුඹ
-your - ඔබගේ
-yourself - නුඹම
-going - යනවා
-have - ඉන්නවා සිංහල
+black_කළුපාට
+blue_නිල්පාට
+brown_දුඹුරුපාට
+green_කොළපාට
+orange_තැඹිලිපාට
+pink_රෝස
+red_රතුපාට
+white_සුදු
+yellow_කහපාට
+eight_අට
+first_එක්වැනි
+five_පහ
+million_දශ-ලක්ෂය
+nine_නවය
+nothing_ශූන්‍යය
+one_එක
+six_හය
+third_තුන්වැනි
+thousand_දහස
+three_තුන
+two_දෙක
+arm_බාහුව
+back_පිටුපස
+beak_හොට
+blood_ලේ
+body_ඇඟ
+bone_ඇටකටු
+brain_මොළය
+breath_ආශ්වාස-ප්‍රශ්වාසය
+cell_සෛලය
+chest_ළැම
+chin_නිකට
+ear_කන
+eye_ඇස
+face_මුහුණ
+finger_ඇඟිල්ල
+foot_පය
+forehead_නළල
+gene_ජානය
+hair_කොණ්ඩය
+hair_කෙස්
+hand_අත
+head_ඔළුව
+heart_හදවත
+knee_දණහිස
+leg_කකුල
+lip_තොල
+mouth_මුඛය
+muscle_මස්පිඩුව
+nail_නියපොත්ත
+neck_ගෙල
+nerve_නහරය
+nose_නාසය
+skin_සම
+stomach_ආමාශය
+throat_උගුර
+thumb_මහපටැඟිල්ල
+toe_පයේ
+tongue_දිව
+tooth_දත
+wing_පක්ෂීන්ගේ
+bear_වලහා
+bird_කුරුල්ලා
+cat_පූසා
+cow_එළදෙන
+dog_බල්ලා
+elephant_අලියා
+fish_මාළුවා
+fly_ඉගිලෙනවා
+goat_එළුවා
+horse_අශ්වයා
+insect_කෘමියා
+lion_සිංහයා
+monkey_වඳුරා
+pig_ඌරා
+sheep_බැටළුවා
+snake_නාගයා
+afternoon_අපරභාගය
+autumn_ශරත්-ඍතුව
+beginning_ආරම්භය
+century_ශතවර්ෂය
+date_දිනය
+December_දෙසැම්බර්-මාසය
+end_අවසානය
+evening_සන්ධ්‍යාව
+February_පෙබරවාරි-මාසය
+July_ජූලි-මාසය
+June_ජූනි-මාසය
+midnight_මධ්‍යම-රාත්‍රිය
+minute_මිනිත්තුව
+moment_මොහොත
+Monday_සඳුදා
+month_මාසය
+morning_උදෑසන
+night_රාත්‍රිය
+November_නොවැම්බර්-මාසය
+period_කාල-පරිච්ඡේදය
+present_වර්තමාන-කාලය
+summer_ගිම්හානය
+Sunday_ඉරිදා
+today_අද
+tomorrow_භෙට
+Tuesday_අඟහරුවාදා
+week_සතිය
+weekend_සති-අන්තය
+while_මොහොත
+year_වර්ෂය
+bread_පාන්
+breakfast_උදේක-ෑම
+butter_බටර්
+cake_කේක්
+cheese_කේජු
+chocolate_චොකලට්
+egg_බිත්තරය
+food_ආහාර
+fruit_පලතුරු
+lunch_දවල්-කෑම
+meal_කෑම-වේල
+meat_මස්
+oil_තෙල්
+rice_බත්
+salad_සලාදය
+salt_ලුණු
+sandwich_සැන්ඩ්විච්
+sauce_සෝස්
+soup_සූපය
+sugar_සීනි
+sweet_පැණිරස
+beer_බීර
+coffee_කෝපි
+drink_බීම
+milk_කිරි
+tea_තේ
+water_ජලය
+wine_වයින්
+apple_ඇපල්
+lemon_දෙහි
+orange_දොඩම්
+bean_බෝංචි
+onion_ලූනු
+potato_අර්තාපල්
+tomato_තක්කාලි
+baby_බිලිඳා
+birth_උපත
+birthday_උපන්දිනය
+boy_පිරිමි-ලමයා
+brother_සහෝදරයා
+child_දරුවා
+daughter_දුව
+death_මරණය
+family_පවුල
+father_පියා
+friend_මිතුරා
+girl_ගෑනු | ළමයා
+grandfather_සීයා
+human_මනුෂ්‍ය
+husband_සැමියා
+life_ජීවය
+man_මිනිසා
+marriage_විවාහය
+mother_මව
+parent_පියා-හෝ-මව
+person_පුද්ගලයා
+relationship_සම්බන්ධතාව
+sister_සහෝදරිය
+son_පුතා
+wedding_විවාහ-මංගල්‍යය
+wife_බිරිඳ
+woman_ගැහැනිය
+address_ලිපිනය
+bathroom_නාන-කාමරය
+bedroom_නිදන-කාමරය
+brick_ගඩොල
+door_දොර
+floor_බිම
+garage_ගරාජය
+garden_උද්‍යානය
+gate_දොරටුව
+hall_සාලය
+home_ගෙදර
+house_ගෙදර
+kitchen_කුස්සිය
+roof_වහළ
+room_කාමරය
+step_තරප්පු-පඩිය
+toilet_වැසිකිළිය
+wall_බිත්තිය
+well_ළිඳ
+window_කවුළුව
+bed_ඇඳ
+carpet_කලාලය
+chair_පුටුව
+cupboard_බිත්ති-රාක්කය
+curtain_තිරය
+desk_ලියන-මේසය
+furniture_ගෘහභාණ්ඩ
+seat_ආසනය
+shelf_රාක්කය
+table_මේසය
+bag_බෑගය
+boot_සපත්තුව
+cloth_වස්ත්‍රය
+clothing_ඇඳුම්
+coat_කබාය
+collar_කරපටිය
+hat_හිස්වැස්ම
+jacket_පිටවැස්ම
+jewel_ආභරණය
+ring_මුදුව
+shirt_කමිසය
+shoe_සපත්තුව
+skirt_සාය
+sock_මේස්
+suitcase_සූට්කේසය
+tie_කරපටිය
+airport_ගුවන්තොටුපළ
+bank_බැංකුව
+bridge_පාලම
+building_ගොඩනැගිල්ල
+capital_අගනුවර
+castle_මාළිගාව
+church_දේවස්ථානය
+cinema_සිනිමා-ශාලාව
+city_නගරය
+flat_මහල්-නිවාසය
+hospital_රෝහල
+hotel_හෝටලය
+library_පුස්තකාලය
+park_උද්‍යානය
+prison_බන්ධනාගාරය
+restaurant_ආපන-ශාලාව
+road_පාර
+school_පාසැල
+street_වීදිය
+structure_ආකෘතිය
+supermarket_සුපිරි-වෙළඳසැල
+town_නුවර | නගරය
+university_විශ්වවිද්‍යාලය
+village_ගම
+accident_හදිසි-අනතුර
+boat_බෝට්ටුව
+bus_බසය
+car_මොටෝරථය
+curve_වක්‍රය
+express_සීඝ‍්‍රගාමී
+flight_පියසැරිය
+journey_ගමන
+passenger_මඟියා
+ship_නැව
+track_පීලිපාර
+transport_ප්‍රවාහණය
+actor_නළුවා
+actress_නිළිය
+businessman_ව්‍යාපාරිකයා
+expert_ඉතදක්ෂයා
+general_සේනාධිපතියා
+journalist_පත්‍රවේදියා
+judge_නඩුකාරයා
+leader_නායකයා
+minister_ඇමතිවරයා
+musician_සංගීතඥයා
+photographer_ඡායාරූප ශිල්පියා
+pilot_ගුවන් නියමුවා
+politician_දේශපාලනඥයා
+president_ජනාධිපති
+professional_වෘත්තීයවේදී
+representative_නියෝජීතයා
+sailor_නාවිකයා
+scientist_විද්‍යාඥයා
+secretary_ලේකම්
+servant_මෙභෙකරුවා
+soldier_සොල්දාදුවා
+writer_ලේඛකයා
+bank_කණ්ඩිය
+beach_වෙරළ
+east_නැගෙනහිර
+hill_කන්ද
+island_දූපත
+lake_වැව | විල
+land_පොළොව
+map_සිතියම
+north_උතුර
+plain_පතන
+region_ප්‍රාන්තය
+river_ගඟ
+sea_මුහුද
+south_දකුණ
+space_ආකාශය
+star_තරුව
+sun_ඉර
+west_බස්නාහිර
+cloud_වලාකුළ
+rain_වැස්ස
+snow_හිම
+storm_කුණාටුව
+wind_සුළඟ
+acid_අම්ලය
+chemical_රසායනික ද්‍රව්‍ය
+coal_ගල් අඟුරු
+cotton_කපු
+dust_දූවිලි
+earth_පස්
+fat_තරබාරු
+glass_කැඩපත
+glue_මැලියම්
+grain_කණිකාව
+ice_අයිස්
+iron_යකඩ
+leather_හම්
+liquid_ද්‍රව
+matter_පදාර්ථය
+oil_තෙල්
+poison_විෂ
+powder_කුඩු
+sand_වැලි
+silk_සේද
+soap_සබන්
+steel_වානේ
+wood_ලී
+wool_ලොම්
+bag_බෑගය
+basket_කූඩය
+bottle_බෝතලය
+box_පෙට්ටිය
+cup_කෝප්පය
+drawer_ලාච්චුව
+envelope_ලියුම්කවරය
+glass_වීදුරු
+plate_පිඟාන
+bell_සීනුව
+button_බොත්තම
+gun_තුවක්කුව
+hammer_මිටිය
+hook_කොක්ක
+key_යතුර
+lock_අගුළ
+match_ගිනිකූර
+nail_ඇණය
+needle_ඉදිකටුව
+pump_පොම්පය
+rope_කඹය
+scissors_කතුර
+stamp_මුද්‍රාව
+whip_කසය
+addition_එකතුකිරීම
+angle_කෝණය
+area_ක්ෂේත්‍රඑලය
+circle_වෘත්තය
+curve_වක්‍රය
+degree_අංශකය
+difference_වෙනස්කම
+distance_පරතරය
+division_බෙදීම
+edge_දාරය
+half_භාගය
+limit_සීමාව
+line_රේඛාව
+net_දැල
+order_විනය
+outside_පිටපැත්ත
+point_ලක්ෂ්‍යය
+purpose_අරමුණ
+result_ප්‍රතිඑලය
+root_මූලය
+rule_නීතිය
+set_කාණ්ඩය
+side_පැත්ත
+square_සමචතුරස‍්‍රය
+square_වර්ගඑලය
+surface_පෘෂ්ඨය
+total_එකතුව
+begin_ආරම්භ
+break_කඩනවා
+buy_මිලටගන්නවා
+close_වසනවා
+come_එනවා
+cut_කපනවා
+dance_නටනවා
+do_කරනවා
+drink_පානය-කරනවා
+eat_කනවා
+fall_වැටෙනවා
+feel_දැනෙනවා
+find_ලබා-ගන්නවා
+fire_වෙඩි-තබනවා
+fly_පියාඹනවා
+follow_අනුගමනය-කරනවා
+forget_අමතක-කරනවා
+get_ලබාගන්නවා
+give_දෙනවා
+hear_ඇසෙනවා
+help_සහාය-වෙනවා
+hope_බලාපොරොත්තු-වෙනවා
+jump_පනිනවා
+kiss_සිප-ගන්නවා
+know_දැන-සිටිනවා
+laugh_ශබ්ද-නගා-සිනාසෙනවා
+learn_ඉගෙනගන්නවා
+lie_බොරුව
+lie_මුසාව
+listen_ඇහුම්කන්-දෙනවා
+look_බලනවා
+lose_නැතිවෙනවා
+love_ආදරය
+make_කරනවා
+meet_හමුව
+move_ගෙන-යනවා
+need_අවශ්‍යතාව
+open_විවෘත-කරනවා
+pay_ගෙවනවා
+play_සෙල්ලම්-කරනවා
+pull_ඇදගෙන-යනවා
+push_තල්ලු-කරනවා
+put_දමනවා
+read_කියවනවා
+remember_මතක-තබාගන්නවා
+run_දුවනවා
+say_කියනවා
+sell_විකුණනවා
+sing_ගී-ගයනවා
+sit_වාඩිවෙනවා
+smile_සිනහව
+swim_පිහිනනවා
+take_අරගන්නවා
+understand_තේරුම්-ගන්නවා
+use_පාවිච්චි-කරනවා
+wait_නැවතී-සිටිනවා
+write_ලියනවා
+and_සහ
+because_නිසා
+for_සඳහා
+if_හොත්
+or_එක්කෝ
+than_වඩා
+until_තුරු
+whenever_ඕනෑවිටක
+against_විරුද්ධව
+among_අතර
+at_කෙරෙහි
+beside_සමීපයෙහි
+during_අතරතුර
+for_සඳහා
+from_සිට
+from_සිට
+into_තුළට
+of_ගේ
+on_උඩ
+since_එවක්-පටන්
+to_දෙසට
+with_සමඟ
+with_සමඟ
+without_තොර
+anyone_කිසිවෙක්
+anything_කිසිවක්
+everything_සියල්ල
+he_ඔහු
+her_ඇගේ
+him_ඔහුට
+himself_ඔහුම
+his_ඔහුගේ
+mine_මගේ
+it_එය | ඌ
+itself_එයම
+me_මා
+my_මගේ
+our_අපේ
+she_ඈ
+that_අර
+their_ඔවුන්ගේ
+them_ඔවුන්ට
+these_මේවා
+they_ඔවුහු
+this_මෙය
+those_ඒවා
+me_මම
+us_අපට
+we_අපි
+what_මොනවාද
+when_කවදා
+which_මොන
+which_මොන
+who_කවුද
+whom_කාටද
+whose_කාගේද
+I_මම
+you_නුඹ
+your_ඔබගේ
+yourself_නුඹම
+going_යනවා
+have_ඉන්නවා සිංහල
