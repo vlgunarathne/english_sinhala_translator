@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
  */
 public class ES_Translator {
 
-    HashMap<String, String> eng_sin_wordsMap;
+    public HashMap<String, String> eng_sin_wordsMap;
 
     public ES_Translator() throws FileNotFoundException {
         try {
@@ -39,26 +39,7 @@ public class ES_Translator {
     }
 
     public static void main(String[] args) {
-        // Initialize the tagger
-        try {
-            ES_Translator es = new ES_Translator();
-            
-
-            // The sample string
-            String sample = "He went to the cinema to watch a movie with her";
-            String inputText[] = sample.split(" ");
-            for (int i = 0; i < inputText.length; i++) {
-                System.out.println(es.eng_sin_wordsMap.get(inputText[i]));
-            }
-            // The tagged string
-            MaxentTagger tagger = new MaxentTagger("com/vlg/tagger/english-bidirectional-distsim.tagger");
-            String tagged = tagger.tagString(sample);
-
-            // Output the result
-            System.out.println(tagged);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        
 
     }
 }

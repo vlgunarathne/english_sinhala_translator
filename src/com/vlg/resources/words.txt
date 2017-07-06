@@ -488,3 +488,6 @@ your_ඔබගේ
 yourself_නුඹම
 going_යනවා
 have_ඉන්නවා සිංහල
+movie_චිත්‍රපටය
+watch_බලන්න
+went_ගියා
