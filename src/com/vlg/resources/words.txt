@@ -454,7 +454,7 @@ anyone_කිසිවෙක්
 anything_කිසිවක්
 everything_සියල්ල
 he_ඔහු
-her_ඇගේ
+her_ඇය
 him_ඔහුට
 himself_ඔහුම
 his_ඔහුගේ

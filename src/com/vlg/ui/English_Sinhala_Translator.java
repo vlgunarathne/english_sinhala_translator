@@ -7,6 +7,8 @@ package com.vlg.ui;
 
 import com.vlg.translator.ES_Translator;
 import edu.stanford.nlp.tagger.maxent.MaxentTagger;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *
@@ -17,8 +19,12 @@ public class English_Sinhala_Translator extends javax.swing.JFrame {
     /**
      * Creates new form English_Sinhala_Translator
      */
-    public English_Sinhala_Translator() {
+    static ES_Translator es;
+    static MaxentTagger tagger;
+    public English_Sinhala_Translator() throws Exception{
         initComponents();
+        es = new ES_Translator();
+        tagger = new MaxentTagger("com/vlg/tagger/english-bidirectional-distsim.tagger");
     }
 
     /**
@@ -84,18 +90,22 @@ public class English_Sinhala_Translator extends javax.swing.JFrame {
         // TODO add your handling code here:
         // Initialize the tagger
         try {
-            ES_Translator es = new ES_Translator();
             
-
+            
+            output.setText(null);
             // The sample string
             String sample = input.getText().toLowerCase();
+            String tagged = tagger.tagString(sample);
             String inputText[] = sample.split(" ");
             for (int i = 0; i < inputText.length; i++) {
-                output.append(inputText[i]+" "+es.eng_sin_wordsMap.get(inputText[i]));
+                String oneTimeWord = es.eng_sin_wordsMap.get(inputText[i]);
+                if(oneTimeWord==null)
+                    continue;
+                output.append(oneTimeWord+" ");
             }
             // The tagged string
-            MaxentTagger tagger = new MaxentTagger("com/vlg/tagger/english-bidirectional-distsim.tagger");
-            String tagged = tagger.tagString(sample);
+            
+            
 
             // Output the result
             System.out.println(tagged);
@@ -134,7 +144,11 @@ public class English_Sinhala_Translator extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new English_Sinhala_Translator().setVisible(true);
+                try {
+                    new English_Sinhala_Translator().setVisible(true);
+                } catch (Exception ex) {
+                    Logger.getLogger(English_Sinhala_Translator.class.getName()).log(Level.SEVERE, null, ex);
+                }
             }
         });
     }
